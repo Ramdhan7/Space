@@ -68,16 +68,14 @@ logo = """
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚══════╝
 
 \033[37;1m---------------------------
-            \033[37;1mNOTE                                       
-\033[37;1m---------------------------
-\033[37;1mGUNAKAN SCRIP SEBAIK MUNGKIN
-\033[37;1mJANGAN SAMPAI DI SALAH DI GUNAKAN
+\033[37;1mGUNAKAN SCRIPT SAAT JARINGAN BAGUS
+\033[37;1mINI SCRIPT ASLI BUATAN GUE COK
 \033[37;1mYANG MAU RECODE SINI KUBANTAI
-\033[37;1mGUNAKAN SAAT LU SEDANG GABUT
+\033[37;1mGUNAKANLAH SAAT LU SEDANG GABUT
 \033[37;1m--------------------------------------------
 
 \033[37;1m===========================
-\033[37;1mDevice : Sumsang
+\033[37;1mDevice : Sumsang Potato
 \033[37;1mDeveloper : Ramdhan Ramadhian
 \033[37;1mWhastapp : 085220455XXX
 \033[37;1mFungsi : Hack akun Masal

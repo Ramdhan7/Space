@@ -1,10 +1,6 @@
 # Space
 Crack FB Cepat dan sederhana
 
-# catch
-Skrip khusus crack wilayah indonesia dengan kecepatan clone yang luar biasa
-
-
 ### Install :
 ````bash
 $ pkg update && pkg upgrade 

